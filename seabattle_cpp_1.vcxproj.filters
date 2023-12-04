@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Domain">
+      <UniqueIdentifier>{4eceaef0-feef-4393-b60a-ad512d7a4a27}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Domain\Entity">
+      <UniqueIdentifier>{b0861d30-baf3-4c11-ac2e-e5722e9c209b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Domain\Reporsitory">
+      <UniqueIdentifier>{53cf249e-b14c-4bad-8f6d-63b1533f31d7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Data">
+      <UniqueIdentifier>{aca8e359-034e-499d-9f3f-76953128f5e9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Data\DataSourse">
+      <UniqueIdentifier>{8e2acba1-8953-45fc-8cdf-9c75b28e97aa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Data\Local">
+      <UniqueIdentifier>{bfc7388d-a3ef-4bda-abf2-dfd2c37df297}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Core">
+      <UniqueIdentifier>{a6cea66b-ff03-466c-96af-8e8b9d42d934}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Core\Main">
+      <UniqueIdentifier>{91bca5a9-28c2-4c49-afed-a20f5599b596}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Presentation">
+      <UniqueIdentifier>{b8aacc44-f52d-4cfa-b4bd-e43e17efdd96}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Presentation\Function">
+      <UniqueIdentifier>{4c1649f8-5028-404b-9108-e92c7d5a4822}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Presentation\Screens">
+      <UniqueIdentifier>{a359129f-4d82-4511-8c9b-5485d19b2c69}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
